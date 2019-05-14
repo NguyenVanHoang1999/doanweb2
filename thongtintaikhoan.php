@@ -7,7 +7,7 @@
 	{
 		if($_SESSION['quyen'] == '1')
 		{
-			header("location:admin/admin.php");
+			//header("location:admin/admin.php");
 		}
 	}
  ?>
